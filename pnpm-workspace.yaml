@@ -1,0 +1,14 @@
+onlyBuiltDependencies:
+  - bigint-buffer
+  - bufferutil
+  - esbuild
+  - utf-8-validate
+allowBuilds:
+  bigint-buffer: true
+  bufferutil: true
+  esbuild: true
+  utf-8-validate: true
+overrides:
+  stream-json: "^3.6.0"
+  utf-8-validate: "^5.0.2"
+  "jayson>uuid": "^11.1.1"

@@ -1,0 +1,1 @@
+create database sponsored_usdc_transfer_test;
